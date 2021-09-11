@@ -1,0 +1,44 @@
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord Kick Roulette.exe
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord Kick Roulette.deps.json
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord Kick Roulette.runtimeconfig.json
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord Kick Roulette.runtimeconfig.dev.json
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord Kick Roulette.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\ref\Discord Kick Roulette.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord Kick Roulette.pdb
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\ConcurrentCollections.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord.Net.Commands.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord.Net.Core.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord.Net.Rest.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord.Net.Webhook.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\DSharpPlus.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\DSharpPlus.CommandsNext.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\DSharpPlus.Interactivity.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Emzi0767.Common.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\System.Interactive.Async.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\System.Linq.Async.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.csproj.AssemblyReference.cache
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.AssemblyInfoInputs.cache
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.AssemblyInfo.cs
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.csproj.CoreCompileInputs.cache
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.csproj.CopyComplete
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\ref\Discord Kick Roulette.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.pdb
+D:\project\Discord Kick Roulette\Discord Kick Roulette\obj\Debug\net5.0\Discord Kick Roulette.genruntimeconfig.cache
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\_config.yml
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\NetEscapades.Configuration.Yaml.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\project\Discord Kick Roulette\Discord Kick Roulette\bin\Debug\net5.0\YamlDotNet.dll
